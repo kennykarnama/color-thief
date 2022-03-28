@@ -1,10 +1,11 @@
 package wsm
 
 import (
-	"color-thief/helper"
 	"log"
 	"reflect"
 	"testing"
+
+	"github.com/kennykarnama/color-thief/helper"
 )
 
 var (

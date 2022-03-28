@@ -1,14 +1,15 @@
 package color_thief
 
 import (
-	"color-thief/helper"
-	"color-thief/wsm"
-	"color-thief/wu"
 	"errors"
 	"image"
 	"image/color"
 	"image/png"
 	"os"
+
+	"github.com/kennykarnama/color-thief/helper"
+	"github.com/kennykarnama/color-thief/wsm"
+	"github.com/kennykarnama/color-thief/wu"
 )
 
 // GetColorFromFile return the base color from the image file

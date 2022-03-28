@@ -1,10 +1,11 @@
 package wu
 
 import (
-	"color-thief/helper"
 	"log"
 	"reflect"
 	"testing"
+
+	"github.com/kennykarnama/color-thief/helper"
 )
 
 var p [][3]int

@@ -1,3 +1,3 @@
-module color-thief
+module github.com/kennykarnama/color-thief
 
 go 1.16
